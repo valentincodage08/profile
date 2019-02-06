@@ -1,0 +1,78 @@
+body {
+    background-color: rgba(80,65,65,0.5);
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    color: rgba(15,15,15);
+    font-size: 1.3vw;
+    line-height: 1.6em;
+}
+
+h1, h2, h3 {
+  color: blue;
+  font-family: ;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  line-height: 1.2em;
+}
+
+h2 {
+  font-family: 'Kaushan Script', cursive;
+}
+
+h3 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 2vw;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  text-decoration: none;
+}
+
+.my_pic {
+  border-radius: 30%;
+  width: 35%;
+  height: 35%;
+}
+
+.container {
+  margin-left: 15%;
+}
+
+.card {
+  border-style: solid;
+  border-width: 2px;
+  padding: 10px 10px 10px 10px;
+  width: 75%;
+  background-color: white;
+  border: solid grey;
+  border-radius: 1%;
+  box-shadow: 8px 8px 2px rgba(0, 0, 255, .2);
+  margin: 25px;
+}
+
+.text_align {
+  text-align: center;
+}
+
+p {
+  font-family: 'Special Elite', cursive;
+  text-align: justify;
+}
+
+.img_size {
+  height: 100%;
+  width: 100%;
+}
+
+.button_design {
+  list-style-type: none;
+  padding: 0;
+}
